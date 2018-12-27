@@ -11,13 +11,14 @@ Flyway is a simple, powerful tool to version databases and perform migrations wi
 - Maven
 
 **Directories**
-- Flyway configurations and SQL migrations: `flyway`
+- Flyway configurations: `flyway`
+- SQL migrations: `flyway/sql`
 - Petclinic app: `spring-petclinic`
 
 ## Execution
 Launch database and execute initial database migration
 
-    $ git clone <>
+    $ git clone https://github.com/liatrio/flyway-quickstart
     $ cd flyway-demo
 
     # launch and initialize database
