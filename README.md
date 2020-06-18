@@ -19,7 +19,7 @@ Flyway is a simple, powerful tool to version databases and perform migrations wi
 Launch database and execute initial database migration
 
     $ git clone https://github.com/liatrio/flyway-quickstart
-    $ cd flyway-demo
+    $ cd flyway-quickstart
 
     # launch and initialize database
     $ docker-compose up -d
